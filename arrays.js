@@ -5,4 +5,3 @@ function addElementToEndOfArray(){
   return array, ..."4"
 }
 
-function 
